@@ -3,6 +3,7 @@
 A space discovery website to explore planets and learn amazing facts about our universe.
 
 **✨ Features**
+
 **Planet Cards** - View planets with key details and images
 
 **Quick Facts Table** - Easy reference for planetary data
