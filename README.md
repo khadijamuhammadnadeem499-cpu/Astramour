@@ -1,52 +1,30 @@
-# 🌌 AstroExplore
+🌌 AstroExplore
+A space discovery website to explore planets and learn amazing facts about our universe.
 
-A space discovery website designed to explore planets and uncover fascinating facts about our universe. 🚀
-Dive into an interactive and visually engaging cosmic experience built with modern web technologies.
+✨ Features
+Planet Cards - View planets with key details and images
 
----
+Quick Facts Table - Easy reference for planetary data
 
-## ✨ Features
+Responsive Design - Works on desktop, tablet, and mobile
 
-### 🌍 Interactive Planet Cards
+Smooth Animations - Clean transitions and effects
 
-Explore each planet through visually rich cards featuring key details and engaging layouts.
+Newsletter Signup - Get space updates via email
 
-### 📊 Quick Facts Table
+🛠️ Technologies
+HTML5 & CSS3
 
-Access important planetary data quickly in a clean, structured format.
+JavaScript
 
-### 📱 Fully Responsive Design
+Font Awesome Icons
 
-Enjoy a seamless experience across all devices — desktop, tablet, and mobile.
+NASA Space Images
 
-### 🌟 Smooth Animations
+📬 Contact
+Email: info@astroexplore.com
 
-Modern UI transitions and animations for a polished and dynamic feel.
+Phone: +92 314-8768496
 
-### 📧 Newsletter Signup
-
-Stay updated with the latest cosmic discoveries by subscribing بسهولة.
-
----
-
-## 🛠️ Technologies Used
-
-* **HTML5 & CSS3** — Core structure and styling
-* **JavaScript** — Dynamic interactivity and logic
-* **Font Awesome** — Scalable vector icons
-* **NASA Images** — High-quality space visuals
-
----
-
-## 📬 Contact
-
-* **Email:** [info@astroexplore.com](mailto:info@astroexplore.com)
-* **Phone:** +92 314-8768496
-
----
-
-## 🌠 Final Note
-
-Explore the cosmos, discover the unknown, and let curiosity guide your journey through the universe.
-
-Happy coding and stargazing! ✨
+🌠 About
+Explore the cosmos, discover the unknown, and let curiosity guide your journey.
